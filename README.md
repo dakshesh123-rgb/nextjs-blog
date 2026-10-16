@@ -27,7 +27,7 @@ A modern full-stack blogging platform built with **Next.js (App Router)**, **Rea
 
 ## 🛠 Tech Stack
 
-- **Framework:** [Next.js 14](https://nextjs.org/) (App Router)
+- **Framework:** [Next.js](https://nextjs.org/) (App Router)
 - **Frontend:** [React 18](https://react.dev/), TypeScript, Custom CSS Variables
 - **Database:** [MongoDB](https://www.mongodb.com/) via [Mongoose](https://mongoosejs.com/)
 - **Security & Auth:** `bcryptjs`, `jsonwebtoken`, HTTP-only cookies
